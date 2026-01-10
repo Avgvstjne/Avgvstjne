@@ -1,8 +1,7 @@
-# Augustine Edeh - Cybersecurity-SOC-GRC | CyberNova Academy - Cybersecurity SOC & GRC
+# Augustine Edeh - Cybersecurity-SOC-GRC | CyberNova Academy | CyberEdge Solutions
+<a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 
-# Hello, I'm Augustine Edeh
-<a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+# Hello, My name is Augustine Edeh
 I am a cybersecurity professional specialising in Security Operations (SOC) and Governance, Risk & Compliance (GRC), focused on detecting and responding to threats while helping organisations align with industry frameworks such as ISO 27001, NIST CSF, and the ACSC Essential Eight.  
 My goal is to combine hands-on SOC skills (detection, investigation, incident response) with strong governance and risk practices to reduce cyber risk in real-world environments.
 
@@ -29,11 +28,6 @@ What I focus on:
 - GRC capability: risk assessments, control design, ISO 27001 and Essential Eight alignment, policy and audit preparation.
 - Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
 
-Contact / Links:
-- LinkedIn: https://linkedin.com/in/augustine-edeh-3456a239b
-- Portfolio: https://github.com/avgvstjne
-- Email: avgvstjne@gmail.com
-
 ---
 
 ## Objective
@@ -47,8 +41,8 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 ### SOC Stream (Blue Team / Detection / Response)
 - SOC Foundations: SOC roles (Tier 1/2/3), SLAs, escalation, ticket hygiene, shift handover.
 - Networking for SOC: TCP/IP, DNS, HTTP(S), TLS, email, proxies, VPN, NAT.
-- Windows & AD for SOC: logs, authentication, Kerberos, event IDs, common attack paths.
-- Linux for SOC: auth logs, systemd, bash basics, cron, suspicious persistence.
+- Windows & AD for SOC: logs, authentication, event IDs, common attack paths.
+- Linux for SOC: auth logs, systems, bash basics, cron, suspicious persistence.
 - Log Management: telemetry sources, normalization, field mapping, enrichment.
 - Detection Engineering: Sigma → SIEM rules, baseline vs anomaly, false positive tuning.
 - Threat Hunting: hypothesis-based hunting, pivoting, timelines, investigation notes.
@@ -79,33 +73,59 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 | Case Management with TheHive | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a> |
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a> |
 
-These skills and project structures align with common SOC and GRC portfolio expectations for entry-level and junior roles.
+SOC / SIEM / Incident Response Projects
+| Project                                         | Repository                                                                                    |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/ceciliaonubogu/SOC-Detection-Labs">SOC Detection Lab</a>          |
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a>                     |
+| Security Automation with Shuffle SOAR           | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a>               |
+| Incident Response Planning and Execution        | <a href="https://github.com/yourusername/incident-response-casebook">IR Casebook</a>          |
+| Case Management with TheHive                    | <a href="https://github.com/yourusername/thehive-case-management">TheHive Case Management</a> |
+| Scripting and Automation for Threat Mitigation  | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a>         |
 
----
+Incident Response Projects
+| Project                                                    | Repository                                                                                        |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Incident Response – Brute Force Attack                     | <a href="https://github.com/yourusername/ir-brute-force-attack">IR Brute Force Attack</a>         |
+| Incident Response – PowerShell Suspicious Web Request      | <a href="https://github.com/yourusername/ir-powershell-web-request">IR PowerShell Web Request</a> |
+| Incident Response – Potential Impossible Travel            | <a href="https://github.com/yourusername/ir-impossible-travel">IR Impossible Travel</a>           |
+| Incident Response – Excessive Resource Creation / Deletion | <a href="https://github.com/yourusername/ir-resource-abuse">IR Resource Abuse</a>                 |
 
-## Tools
+Threat Hunting Projects
+| Project                                                    | Repository                                                                                                |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Tor Browser Usage Detection                                | <a href="https://github.com/yourusername/threat-hunt-tor-usage">TOR Usage Detection</a>                   |
+| Device Exposed to Internet – Brute Force Detection (Azure VM, Sentinel & KQL) | <a href="https://github.com/yourusername/threat-hunt-exposed-vm">Exposed VM Brute Force Hunt</a>          |
+| Sudden Network Slowdown Investigation                      | <a href="https://github.com/yourusername/threat-hunt-network-slowdown">Network Slowdown Investigation</a> |
+| Data Exfiltration Attempt Investigation                    | <a href="https://github.com/yourusername/threat-hunt-data-exfiltration">Data Exfiltration Hunt</a>        |
+| Zero-Day Vulnerability Threat Assessment & Detection       | <a href="https://github.com/yourusername/threat-hunt-zero-day">Zero-Day Threat Hunt</a>                   |
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+Vulnerability Management Projects
+| Project                                                     | Repository                                                                                               |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| End-to-End Vulnerability Management Program Implementation  | <a href="https://github.com/yourusername/vuln-management-program">Vulnerability Management Program</a>   |
+| Programmatic Vulnerability Remediations (PowerShell & Bash) | <a href="https://github.com/yourusername/vuln-remediation-scripts">Vulnerability Remediation Scripts</a> |
+| Windows Vulnerability Scanning & Manual Remediation         | <a href="https://github.com/yourusername/windows-vuln-manual">Windows Manual Remediation</a>             |
+| Windows Vulnerability Scanning & Programmatic Remediation   | <a href="https://github.com/yourusername/windows-vuln-automation">Windows Programmatic Remediation</a>   |
+| Linux Vulnerability Scanning & Manual Remediation           | <a href="https://github.com/yourusername/linux-vuln-manual">Linux Manual Remediation</a>                 |
+| Linux Vulnerability Scanning & Programmatic Remediation     | <a href="https://github.com/yourusername/linux-vuln-automation">Linux Programmatic Remediation</a>       |
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-These tools are widely used in SOC environments and are commonly included in hands-on training for cyber operations and monitoring.
+Governance, Risk & Compliance (GRC) – Real-World Projects
+| Project                                                     | Repository                                                                                                |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Enterprise Risk Register Development & Risk Assessment      | <a href="https://github.com/yourusername/enterprise-risk-register">Enterprise Risk Register</a>           |
+| ISO 27001 ISMS Design & Implementation (End-to-End)         | <a href="https://github.com/yourusername/iso27001-isms-implementation">ISO 27001 ISMS Implementation</a>  
+| NIST CSF Cyber Risk Assessment & Maturity Evaluation        | <a href="https://github.com/yourusername/nist-csf-risk-assessment">NIST CSF Risk Assessment</a>           |
+| Essential Eight (ACSC) Gap Assessment & Uplift Roadmap      | <a href="https://github.com/yourusername/essential-eight-gap-assessment">Essential Eight Uplift</a>       |
+| Third-Party Vendor Risk Assessment (Supply Chain Security)  | <a href="https://github.com/yourusername/vendor-risk-assessment">Vendor Risk Assessment</a>               |
+| Cloud Security Governance Framework (AWS / Azure)           | <a href="https://github.com/yourusername/cloud-security-governance">Cloud Security Governance</a>         |
+| Cyber Risk Metrics, KRIs & Executive Dashboard              | <a href="https://github.com/yourusername/cyber-risk-metrics">Cyber Risk Metrics</a>                       |
+| Secure SDLC Governance & DevSecOps Policy                   | <a href="https://github.com/yourusername/secure-sdlc-governance">Secure SDLC Governance</a>               |
+| Identity & Access Management (IAM) Governance Review        | <a href="https://github.com/yourusername/iam-governance-review">IAM Governance Review</a>                 |
+| Regulatory Mapping (ISO 27001 ↔ NIST ↔ Essential Eight)     | <a href="https://github.com/yourusername/control-mapping-framework">Control Mapping Framework</a>         |
+| Data Breach Response & Regulatory Notification Playbook     | <a href="https://github.com/yourusername/data-breach-playbook">Data Breach Playbook</a>                   |
+| Third-Party SaaS Risk Review (Microsoft 365 / Salesforce)   | <a href="https://github.com/yourusername/saas-risk-review">SaaS Risk Review</a>                           |
+| Security Governance Operating Model & RACI Design           | <a href="https://github.com/yourusername/security-governance-model">Security Governance Mo
 
 ---
 
@@ -114,8 +134,8 @@ These tools are widely used in SOC environments and are commonly included in han
 ### Logging / Telemetry Sources
 - Windows Event Logs (Security, Sysmon, PowerShell).
 - Linux auth logs (auth.log / secure), syslog.
-- Firewall / proxy logs (template).
-- Cloud logs: Azure Activity Logs, Microsoft 365 logs, AWS CloudTrail (where applicable).
+- Firewall / proxy logs.
+- Cloud logs: Azure Activity Logs, Microsoft 365 logs, AWS CloudTrail.
 
 ### SIEM Platforms
 - Microsoft Sentinel (KQL) — Docs: https://learn.microsoft.com/azure/sentinel/
@@ -159,8 +179,31 @@ These tools are widely used in SOC environments and are commonly included in han
 - ACSC Essential Eight (Australia).
 
 ---
+## Tools
 
-## Certifications (Template Badges)
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+---
+
+## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -168,104 +211,6 @@ These tools are widely used in SOC environments and are commonly included in han
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-Replace or remove badges so they only show certifications you actually hold, aligning with best practice for honest portfolio representation.
-
----
-
-## Projects – Detection Lab & SOC/GRC Portfolio
-
-### 1) Detection Lab (SIEM + Telemetry + Detections)
-Goal: Build a detection lab that collects endpoint and network telemetry and triggers alerts mapped to MITRE ATT&CK.
-
-Repo (template):
-- Detection Lab Repo: https://github.com/yourusername/detection-lab
-
-Deliverables:
-- Data sources connected (Sysmon, Windows Security Events, Zeek/Suricata).
-- 10 detections (5 basic + 5 advanced) with description, log source, query/rule, tuning notes, MITRE mapping.
-- Dashboards / workbooks.
-- A short incident simulation with alert screenshots.
-
-### 2) SOC Automation Lab (SOAR + Case Management)
-Goal: Automate alert enrichment and response, and manage incidents like a real SOC. 
-
-Repo (template):
-- SOC Automation Repo: https://github.com/augustineedeh2411-create/soc-automation
-
-Deliverables:
-- Shuffle playbook(s): enrichment (VirusTotal/AbuseIPDB), notifications, ticket creation.
-- TheHive case template (severity, tasks, IOCs, timeline, response actions).
-- Post-incident report template (PDF/Markdown).
-
-### 3) Threat Hunt Pack (Hunt Queries + Investigation Notes)
-Goal: Create a repeatable hunting pack for common attacker behaviours.  
-
-Repo (template):
-- Threat Hunting Repo: https://github.com/yourusername/threat-hunting-pack
-
-Deliverables:
-- 15 hunt queries (KQL/SPL/Elastic).
-- Investigation “pivot map” (key fields to pivot on).
-- 3 hunt write-ups with screenshots and conclusions.
-
-### 4) Incident Response Casebook (Tier 1 → Tier 2 Ready)
-Goal: Build a portfolio of incidents investigated end-to-end. 
-
-Repo (template):
-- IR Casebook Repo: https://github.com/yourusername/incident-response-casebook
-
-Include use cases like:
-- Phishing triage and malicious URL investigation.
-- Brute force / password spray detection and response.
-- Malware execution (PowerShell) hunt and containment.
-- Suspicious admin activity / privilege escalation. 
-
-### 5) GRC Portfolio Pack (ISO 27001 + Risk + Audit Evidence)
-Goal: Show that you can work in GRC and support audits and compliance activities.
-
-Repo (template):
-- GRC Portfolio Repo: https://github.com/yourusername/grc-iso27001-pack
-
-Deliverables:
-- ISMS Scope statement (template + filled example).
-- Statement of Applicability (SoA) (template).
-- Risk Register (inherent/residual) (template).
-- 5 policies (AUP, Access Control, Logging, Incident Response, Vendor Risk).
-- Audit evidence pack (how controls are proved and monitored).
-
-### 6) Capstone Project (SOC + GRC Combined)
-Goal: Demonstrate that you can operate as a SOC analyst and translate work into governance and risk artifacts.  
-
-Repo (template):
-- Capstone Repo: https://github.com/yourusername/soc-grc-capstone
-
-Capstone deliverables:
-- Detection plus incident investigation.
-- Executive report (1–2 pages).
-- Technical report with IOCs and timelines.
-- GRC mapping: risks identified + control recommendations (ISO 27001/NIST/Essential Eight).
-- Treatment plan with priorities and owners.
-
----
-
-## Useful Links (Portfolio Template)
-
-### SIEM Query Languages
-- KQL (Sentinel): https://learn.microsoft.com/azure/data-explorer/kusto/query/
-- Splunk SPL: https://docs.splunk.com/Documentation/Splunk/latest/SearchReference/
-- Elastic Query / KQL: https://www.elastic.co/guide/en/kibana/current/kuery-query.html
-
-### Detection Engineering & Frameworks
-- MITRE ATT&CK: https://attack.mitre.org/
-- SigmaHQ: https://sigmahq.io/
-- Atomic Red Team (optional): https://atomicredteam.io/
-
-### Documentation & Reporting Templates (Create These in Your Repo)
-- Incident Report Template: https://github.com/yourusername/templates/incident-report
-- Executive Summary Template: https://github.com/yourusername/templates/executive-summary
-- Risk Register Template: https://github.com/yourusername/templates/risk-register
-- SoA Template: https://github.com/yourusername/templates/statement-of-applicability
 
 ---
 
