@@ -68,9 +68,9 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 
 ---
 
-## Skills
+## CyberSecurity Projects
 
-| Skill | Associated Project |
+| CyberSecurity SOC & GRC | Associated Project Labs |
 |------------------------------------------------|---------------------------------------------------------------------|
 | SIEM Implementation and Log Analysis | <a href="https://github.com/yourusername/detection-lab">Detection Lab</a> |
 | Network Traffic Monitoring and Attack Detection| <a href="https://github.com/yourusername/detection-lab">Detection Lab</a> |
