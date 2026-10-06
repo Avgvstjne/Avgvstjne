@@ -25,11 +25,11 @@ This profile is a portfolio of the labs and tooling I build in my spare time to 
 
 | Project | What it shows | Stack |
 |---|---|---|
-| [**Security News Digest Pipeline**](https://github.com/Avgvstjne/[REPO-NAME]) | Automated daily cybersecurity news digest delivered by email on a GitHub Actions schedule | Python · GitHub Actions |
-| [**Azure SOC & Honeypot Lab**](https://github.com/Avgvstjne/[REPO-NAME]) | Exposed Azure VMs, Event ID 4625 collection, KQL attacker geolocation, live Sentinel workbook | Azure · Microsoft Sentinel · KQL |
-| [**Cloud Phishing Simulation Lab**](https://github.com/Avgvstjne/[REPO-NAME]) | Isolated phishing campaigns on AWS with SPF/DKIM/DMARC and TLS configured | AWS EC2 · Docker · Gophish · Poste.io |
-| [**Active Directory Hardening Lab**](https://github.com/Avgvstjne/[REPO-NAME]) | Domain controller build, RBAC and GPOs, lockout policies, Kerberos/NTLM auditing | Windows Server · VMware · AD |
-| [**IaC & Security Automation Lab**](https://github.com/Avgvstjne/[REPO-NAME]) | Provisioning/tearing down security environments as code; Python log-triage scripts | IaC · Python · AWS · Azure |
+| [**Security News Digest Pipeline**](https://github.com/Avgvstjne/Security-News-Digest-Pipeline) | Automated daily cybersecurity news digest delivered by email on a GitHub Actions schedule | Python · GitHub Actions |
+| [**Azure SOC & Honeypot Lab**](https://github.com/Avgvstjne/Azure_SOC-Honeypot_Lab) | Exposed Azure VMs, Event ID 4625 collection, KQL attacker geolocation, live Sentinel workbook | Azure · Microsoft Sentinel |
+| [**Cloud Phishing Simulation Lab**](https://github.com/Avgvstjne/Enterprise-Phishing-Simulation-Defense-Lab-AWS-) | Isolated phishing campaigns on AWS with SPF/DKIM/DMARC and TLS configured | AWS EC2 · Docker · Gophish · Poste.io |
+| [**Active Directory Hardening Lab**](https://github.com/Avgvstjne/Multi-Cloud_Deployment_and_Security_Hardening_Lab) | Domain controller build, RBAC and GPOs, lockout policies, Kerberos/NTLM auditing | Windows Server · VMware · AD |
+| [**IaC & Security Automation Lab**](https://github.com/Avgvstjne/Secure-AWS-Landing-Zone-with-Terraform-DevSecOps-IaC-) | Provisioning/tearing down security environments as code; Python log-triage scripts | IaC · Python · AWS · Azure |
 | [**Incident Handler's Journal**](https://github.com/Avgvstjne/Incident-Handler-s-Journal) | Structured incident documentation | Incident response |
 
 
