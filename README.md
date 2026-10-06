@@ -2,13 +2,13 @@
 ---
 
 ## Cybersecurity Analyst | Security Operations & Vulnerability Management | Detection Engineering | Governance Risk and Compliance.
-Cybersecurity professional specializing in Security Operations Center (SOC), Governance, Risk & Compliance (GRC). Proficient in threat detection, incident triage, SIEM query development (KQL/SPL), and building compliance artifacts like risk registers, policies, and ISO 27001-aligned controls. Passionate about bridging technical SOC workflows with governance frameworks to help organizations mitigate cyber risks under ACSC Essential Eight and NIST CSF.  
+Cybersecurity professional specializing in Security Operations Center (SOC), Governance, Risk & Compliance (GRC). Proficient in threat detection, incident triage, SIEM query development (KQL/SPL), and[...]
 <a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ---
 
 ## Completed - CyberNova Academy -100% Hands-On Cohort Training:(Cybersecurity SOC & GRC)
-CyberNova Academy’s SOC & GRC Cohort is 100% hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability (risk, compliance, ISO 27001, Essential Eight alignment, audit readiness).  
+CyberNova Academy’s SOC & GRC Cohort is 100% hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability ([...]
 
 
 Learners graduate with:
@@ -27,36 +27,22 @@ My interests include building SOC workflows, designing detections in SIEM platfo
 What I focus on:
 - Hands-on SOC skills: log analysis, alert triage, threat hunting, and incident response in enterprise-style environments.
 - GRC capability: risk assessments, control design, ISO 27001 and Essential Eight alignment, policy and audit preparation.
+- Cloud security: AWS and Azure infrastructure hardening, Infrastructure-as-Code security, secure cloud deployments.
 - Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
 
-My objective is to build a career as a SOC and GRC professional, contributing to detection, response, and governance in modern enterprises.
-I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC analyst roles where I can apply detection engineering, incident handling, and risk management to help organisations strengthen their security posture.
+My objective is to build a career as a Tier 3 SOC analyst, Security Engineer, and Cloud Security professional, contributing to detection, response, governance, and secure cloud architecture in modern enterprises.
 
 ---
 
-## SOC + GRC Cohort Outline
+## Featured Projects
 
-### SOC Stream (Blue Team / Detection / Response)
-- SOC Foundations: SOC roles (Tier 1/2/3), SLAs, escalation, ticket hygiene, shift handover.
-- Networking for SOC: TCP/IP, DNS, HTTP(S), TLS, email, proxies, VPN, NAT.
-- Windows & AD for SOC: logs, authentication, event IDs, common attack paths.
-- Linux for SOC: auth logs, systems, bash basics, cron, suspicious persistence.
-- Log Management: telemetry sources, normalization, field mapping, enrichment.
-- Detection Engineering: Sigma → SIEM rules, baseline vs anomaly, false positive tuning.
-- Threat Hunting: hypothesis-based hunting, pivoting, timelines, investigation notes.
-- Incident Response: triage → containment → eradication → recovery → lessons learned.
-- SOAR Automation: playbooks, alert enrichment, auto-ticketing, auto-containment.
-- Reporting: executive summaries, technical summaries, IOCs, MITRE ATT&CK mapping.
-
-### GRC Stream (ISO 27001 / NIST / Essential Eight)
-- GRC Foundations: governance vs risk vs compliance, three lines model, assurance.
-- Risk Management: risk statements, likelihood/impact, inherent vs residual risk.
-- ISO 27001 ISMS: scope, context, leadership, planning, support, operation, performance, improvement.
-- Controls & Mapping: ISO 27001 Annex A mapping to NIST CSF, CIS Controls, Essential Eight.
-- Policy & Procedures: acceptable use, access control, incident management, logging.
-- Audit Prep: evidence collection, audit trails, control testing, nonconformities, CAPA.
-- Third-Party Risk: vendor assessment, security questionnaires, contracts, due diligence.
-- Governance Artifacts: risk register, SoA, ISMS scope, control implementation plan.
+| Project | Description | Technologies |
+|---------|-------------|---------------|
+| <a href="https://github.com/Avgvstjne/Security-News-Digest-Pipeline">Security News Digest Pipeline</a> | Automated threat intelligence aggregation and digest generation | Python, API Integration, Threat Intel |
+| <a href="https://github.com/Avgvstjne/Azure_SOC-Honeypot_Lab">Azure SOC Honeypot Lab</a> | End-to-end SOC detection and response with Azure Sentinel and Windows VMs | Azure Sentinel, KQL, Windows Event Logs, SIEM |
+| <a href="https://github.com/Avgvstjne/Enterprise-Phishing-Simulation-Defense-Lab-AWS-">Enterprise Phishing Simulation & Defense Lab (AWS)</a> | Cloud-based phishing detection and automated response | AWS, Email Security, Detection Engineering, SOAR |
+| <a href="https://github.com/Avgvstjne/Coach-Dialogue_Sound_the-Alarm_Detection-and-Response">Sound the Alarm: Detection & Response</a> | Active Directory attack detection and incident response workflows | Active Directory, Windows Security, Incident Response |
+| <a href="https://github.com/Avgvstjne/Secure-AWS-Landing-Zone-with-Terraform-DevSecOps-IaC-">Secure AWS Landing Zone (Terraform/IaC)</a> | Infrastructure-as-Code security best practices for cloud deployments | Terraform, AWS, DevSecOps, IaC, Security Hardening |
 
 ---
 
@@ -64,12 +50,12 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 
 | Real-World Hands-On Projects| Associated Projects Portfolios 
 |------------------------------------------------|---------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis | <a href="https://github.com/ceciliaonubogu/SOC-Detection-Labs">SOC Detection Lab</a> |
-| Network Traffic Monitoring and Attack Detection| <a href="https://github.com/yourusername/detection-lab">Detection Lab</a> |
-| Security Automation with Shuffle SOAR | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a> |
-| Incident Response Planning and Execution | <a href="https://github.com/yourusername/incident-response-casebook">IR Casebook</a> |
-| Case Management with TheHive | <a href="https://github.com/yourusername/soc-automation">SOC Automation Lab</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/yourusername/threat-hunting-pack">Threat Hunting Pack</a> |
+| SIEM Implementation and Log Analysis | <a href="https://github.com/Avgvstjne/Enterprise-SIEM-detection-Triage-Dashboard">Enterprise SIEM Detection & Triage Dashboard</a> |
+| Network Traffic Monitoring and Attack Detection| <a href="https://github.com/Avgvstjne/WIRESHARK-packet_capture.">Wireshark Packet Capture Lab</a> |
+| Security Automation with Shuffle SOAR | <a href="https://github.com/Avgvstjne/Enterprise-Phishing-Simulation-Defense-Lab-AWS-">Enterprise Phishing Defense Lab</a> |
+| Incident Response Planning and Execution | <a href="https://github.com/Avgvstjne/Incident-Handler-s-Journal">Incident Handler's Journal</a> |
+| Threat Hunting and Detection Engineering | <a href="https://github.com/Avgvstjne/Coach-Dialogue_Sound_the-Alarm_Detection-and-Response">Sound the Alarm: Detection & Response</a> |
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Avgvstjne/LABs_Automate-Cybersecurity-task-with-Python">Automate Cybersecurity Tasks with Python</a> |
 
 
 ---
@@ -112,6 +98,11 @@ I am particularly interested in Tier 1/Tier 2 SOC analyst roles and junior GRC a
 - Tenable / Nessus — https://www.tenable.com/products/nessus
 - Rapid7 InsightVM — https://www.rapid7.com/products/insightvm/
 - OpenVAS / Greenbone — https://www.greenbone.net/
+
+### Cloud Platforms & IaC
+- AWS (EC2, VPC, IAM, CloudTrail, Terraform) — Docs: https://aws.amazon.com/docs/
+- Azure (VMs, Network Security, Sentinel, Activity Logs) — Docs: https://learn.microsoft.com/azure/
+- Terraform — Docs: https://www.terraform.io/docs
 
 ### Ticketing / Case Workflow
 - Jira / ServiceNow-style workflow (template).
