@@ -1,123 +1,88 @@
-# Augustine-Edeh
+<h1 align="center">Augustine Edeh</h1>
+<h3 align="center">Security Operations Engineer · Detection & Response · Azure / AWS Security</h3>
 
----  
+<p align="center">
+  Queensland, Australia · Hybrid, Remote(Australia), In Office roles.
+</p>
 
-## Cybersecurity Analyst | Security Operations & Vulnerability Management | Detection Engineering | Cloud Security.
-
-Cybersecurity professional specializing in Security Operations Center (SOC). Proficient in threat detection, incident triage, SIEM query development (KQL/SPL), and 
-<a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:avgvstjne@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## About Me
-As a SOC and GRC-focused cybersecurity professional, I work at the intersection of technical detection/response and governance-driven risk management.
-My interests include building SOC workflows, designing detections in SIEM platforms, and creating governance artifacts that map security controls to business risk and compliance requirements.
+## About
 
-What I focus on:
-- Hands-on SOC skills: log analysis, alert triage, threat hunting, and incident response in enterprise-style environments.
-- GRC capability: risk assessments, control design, ISO 27001 and Essential Eight alignment, policy and audit preparation.
-- Cloud security: AWS and Azure infrastructure hardening, Infrastructure-as-Code security, secure cloud deployments.
-- Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
+I work in security operations: monitoring, investigating and responding to threats in **Splunk** and **Microsoft Sentinel**, and improving the detections behind them.
+This profile is a portfolio of the labs and tooling I build in my spare time to simulate/practise that work end to end: detect, investigate, automate, report, and so on.
 
-My objective is to build a career as a Tier 3 SOC analyst, Security Engineer, and Cloud Security professional, contributing to detection, response, governance, and secure cloud architecture in modern enterprises.
+**Currently:** Security Operations Analyst (contract) · **Targeting:** SOC Analyst (L3), Security Engineer, Cloud Security
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|---------------|
-| <a href="https://github.com/Avgvstjne/Security-News-Digest-Pipeline">Security News Digest Pipeline</a> | Automated threat intelligence aggregation and digest generation | Python, API Integration, Threat Intel |
-| <a href="https://github.com/Avgvstjne/Azure_SOC-Honeypot_Lab">Azure SOC Honeypot Lab</a> | End-to-end SOC detection and response with Azure Sentinel and Windows VMs | Azure Sentinel, KQL, Windows Event Logs, SIEM |
-| <a href="https://github.com/Avgvstjne/Enterprise-Phishing-Simulation-Defense-Lab-AWS-">Enterprise Phishing Simulation & Defense Lab (AWS)</a> | Cloud-based phishing detection and automated response | AWS, Email Security, Detection Engineering, SOAR |
-| <a href="https://github.com/Avgvstjne/Coach-Dialogue_Sound_the-Alarm_Detection-and-Response">Sound the Alarm: Detection & Response</a> | Active Directory attack detection and incident response workflows | Active Directory, Windows Security, Incident Response |
-| <a href="https://github.com/Avgvstjne/Secure-AWS-Landing-Zone-with-Terraform-DevSecOps-IaC-">Secure AWS Landing Zone (Terraform/IaC)</a> | Infrastructure-as-Code security best practices for cloud deployments | Terraform, AWS, DevSecOps, IaC, Security Hardening |
+| Project | What it shows | Stack |
+|---|---|---|
+| [**Security News Digest Pipeline**](https://github.com/Avgvstjne/[REPO-NAME]) | Automated daily cybersecurity news digest delivered by email on a GitHub Actions schedule | Python · GitHub Actions |
+| [**Azure SOC & Honeypot Lab**](https://github.com/Avgvstjne/[REPO-NAME]) | Exposed Azure VMs, Event ID 4625 collection, KQL attacker geolocation, live Sentinel workbook | Azure · Microsoft Sentinel · KQL |
+| [**Cloud Phishing Simulation Lab**](https://github.com/Avgvstjne/[REPO-NAME]) | Isolated phishing campaigns on AWS with SPF/DKIM/DMARC and TLS configured | AWS EC2 · Docker · Gophish · Poste.io |
+| [**Active Directory Hardening Lab**](https://github.com/Avgvstjne/[REPO-NAME]) | Domain controller build, RBAC and GPOs, lockout policies, Kerberos/NTLM auditing | Windows Server · VMware · AD |
+| [**IaC & Security Automation Lab**](https://github.com/Avgvstjne/[REPO-NAME]) | Provisioning/tearing down security environments as code; Python log-triage scripts | IaC · Python · AWS · Azure |
+| [**Incident Handler's Journal**](https://github.com/Avgvstjne/Incident-Handler-s-Journal) | Structured incident documentation | Incident response |
+
+
+<details>
+<summary><b>More work</b></summary>
+
+- [PASTA threat modelling worksheet](https://github.com/Avgvstjne/PASTA-threat-modelling-framework--Stages-review--Worksheet)
+- [tcpdump packet capture](https://github.com/Avgvstjne/TCPDUMP-packet-capture)
+- [Wireshark packet capture](https://github.com/Avgvstjne/WIRESHARK-packet_capture.)
+- [SQL in security](https://github.com/Avgvstjne/Coach-Dialogue---Exploring-SQL-applications-in-security.)
+
+</details>
 
 ---
 
 ## Skills
 
-| Real-World Hands-On Projects| Associated Projects Portfolios 
-|------------------------------------------------|---------------------------------------------------------------------|
-| SIEM Implementation and Log Analysis | <a href="https://github.com/Avgvstjne/Enterprise-SIEM-detection-Triage-Dashboard">Enterprise SIEM Detection & Triage Dashboard</a> |
-| Network Traffic Monitoring and Attack Detection| <a href="https://github.com/Avgvstjne/WIRESHARK-packet_capture.">Wireshark Packet Capture Lab</a> |
-| Security Automation with Shuffle SOAR | <a href="https://github.com/Avgvstjne/Enterprise-Phishing-Simulation-Defense-Lab-AWS-">Enterprise Phishing Defense Lab</a> |
-| Incident Response Planning and Execution | <a href="https://github.com/Avgvstjne/Incident-Handler-s-Journal">Incident Handler's Journal</a> |
-| Threat Hunting and Detection Engineering | <a href="https://github.com/Avgvstjne/Coach-Dialogue_Sound_the-Alarm_Detection-and-Response">Sound the Alarm: Detection & Response</a> |
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Avgvstjne/LABs_Automate-Cybersecurity-task-with-Python">Automate Cybersecurity Tasks with Python</a> |
+| Area | Tools & techniques |
+|---|---|
+| **Detection & response** | Splunk Enterprise · Microsoft Sentinel · KQL · Microsoft Defender for Endpoint · Chronicle · Wazuh · Suricata · threat hunting · incident response |
+| **Cloud** | Azure · AWS · CloudTrail · Log Analytics · Infrastructure as Code |
+| **Vulnerability management** | Nessus · Rapid7 · Tenable · CVSS prioritisation |
+| **Network & analysis** | Wireshark · tcpdump · packet analysis |
+| **Automation** | Python (log parsing, task automation) · SQL · Linux CLI · GitHub Actions |
+| **Governance** | ISO 27001 · ISM · audit and drill support |
 
 ---
 
-## Tools I Work With
+## Certifications
 
-### Logging / Telemetry Sources
-- Windows Event Logs (Security, Sysmon, PowerShell).
-- Linux auth logs (auth.log / secure), syslog.
-- Firewall / proxy logs.
-- Cloud logs: Azure Activity Logs, Microsoft 365 logs, AWS CloudTrail.
-
-### SIEM Platforms
-- Microsoft Sentinel (KQL) — Docs: https://learn.microsoft.com/azure/sentinel/
-- Splunk (SPL) — Docs: https://docs.splunk.com/
-- Elastic Security (Kibana / KQL) — Docs: https://www.elastic.co/guide/
-
-### EDR / Endpoint Security
-- Microsoft Defender for Endpoint — Docs: https://learn.microsoft.com/microsoft-365/security/defender-endpoint/
-- Velociraptor DFIR — Docs: https://docs.velociraptor.app/
-
-### SOAR / Automation
-- Shuffle SOAR — Docs: https://shuffler.io/docs
-- TheHive (Case Management) — Docs: https://docs.thehive-project.org/
-- Microsoft Logic Apps / Sentinel Automation — Docs: https://learn.microsoft.com/azure/logic-apps/
-
-### IDS / NSM
-- Wireshark — Docs: https://www.wireshark.org/docs/
-- Zeek — Docs: https://docs.zeek.org/
-- Suricata — Docs: https://suricata.io/documentation/
-
-### Threat Intelligence / Enrichment
-- MITRE ATT&CK — https://attack.mitre.org/
-- Sigma rules — https://sigmahq.io/
-- VirusTotal — https://www.virustotal.com/
-- AbuseIPDB — https://www.abuseipdb.com/
-- MISP (optional) — https://www.misp-project.org/
-
-### Vulnerability & Exposure (Awareness)
-- Tenable / Nessus — https://www.tenable.com/products/nessus
-- Rapid7 InsightVM — https://www.rapid7.com/products/insightvm/
-- OpenVAS / Greenbone — https://www.greenbone.net/
-
-### Cloud Platforms & IaC
-- AWS (EC2, VPC, IAM, CloudTrail, Terraform) — Docs: https://aws.amazon.com/docs/
-- Azure (VMs, Network Security, Sentinel, Activity Logs) — Docs: https://learn.microsoft.com/azure/
-- Terraform — Docs: https://www.terraform.io/docs
-
-### Ticketing / Case Workflow
-- Jira / ServiceNow-style workflow (template).
-- Evidence-driven case notes, timeline, containment actions.
-
-### GRC Frameworks & Standards
-- ISO/IEC 27001 (ISMS).
-- NIST Cybersecurity Framework (CSF).
-- CIS Controls.
-- ACSC Essential Eight (Australia).
+| Credential | Status |
+|---|---|
+| CompTIA Security+ | Completed |
+| ISC2 Certified in Cybersecurity (CC) | Completed |
+| Google Cybersecurity Professional Certificate | Completed |
+| Cybersecurity SOC & GRC Hands-On Program (CyberNova Academy) | Completed |
+| CCNA | Exam booked |
+| ISC2 CISSP | Exam booked |
 
 ---
 
-## Completed - CyberNova Academy -100% Hands-On Cohort Training:(Cybersecurity SOC & GRC)
-CyberNova Academy’s SOC & GRC Cohort is 100% hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability ([...]
+## Experience
 
-
-Learners graduate with:
-- A GitHub portfolio with practical SOC labs and write-ups.
-- Evidence of detection engineering (KQL/SPL, dashboards, alerts, use cases).
-- Incident response workflow experience (tickets, cases, playbooks, reports).
-- GRC artifacts (risk register, policies, ISMS scope, audit evidence pack).
-- Real-world tooling familiarity (SIEM, EDR, SOAR, threat intel, logging).
+- **Security Operations Analyst**, CyberEdge Solutions Australia · Nov 2025 – Present
+  Real-time monitoring and incident response in Splunk and Sentinel; led a Defender–Sentinel integration that cut phishing response time by 30%.
+- **Infrastructure Specialist (Data Centre)**, DXC Technology · Apr 2026 – Sep 2026
+  Infrastructure hardening, vulnerability assessment and network traffic analysis.
+- **Cloud Security Engineer**, Veritas Support Solutions · Oct 2024 - Nov 2025
+  Cloud Security, Operations, Automations and Cloud infrastructure.
 
 ---
 
-## Contact
-- LinkedIn: https://linkedin.com/in/augustine-edeh-3456a239b
-- Email: avgvstjne@gmail.com  
-- Portfolio: https://github.com/avgvstjne
+## Let's talk
+
+I'm looking for SOC (L3), security engineering and cloud security roles.
+Reach me on [LinkedIn](https://linkedin.com/in/augustine-edeh-3456a239b) or at avgvstjne@gmail.com.
