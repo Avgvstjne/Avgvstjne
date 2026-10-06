@@ -1,22 +1,11 @@
 # Augustine-Edeh
----
 
-## Cybersecurity Analyst | Security Operations & Vulnerability Management | Detection Engineering | Governance Risk and Compliance.
-Cybersecurity professional specializing in Security Operations Center (SOC), Governance, Risk & Compliance (GRC). Proficient in threat detection, incident triage, SIEM query development (KQL/SPL), and[...]
+---  
+
+## Cybersecurity Analyst | Security Operations & Vulnerability Management | Detection Engineering | Cloud Security.
+
+Cybersecurity professional specializing in Security Operations Center (SOC). Proficient in threat detection, incident triage, SIEM query development (KQL/SPL), and 
 <a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
----
-
-## Completed - CyberNova Academy -100% Hands-On Cohort Training:(Cybersecurity SOC & GRC)
-CyberNova Academy’s SOC & GRC Cohort is 100% hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability ([...]
-
-
-Learners graduate with:
-- A GitHub portfolio with practical SOC labs and write-ups.
-- Evidence of detection engineering (KQL/SPL, dashboards, alerts, use cases).
-- Incident response workflow experience (tickets, cases, playbooks, reports).
-- GRC artifacts (risk register, policies, ISMS scope, audit evidence pack).
-- Real-world tooling familiarity (SIEM, EDR, SOAR, threat intel, logging).
 
 ---
 
@@ -56,7 +45,6 @@ My objective is to build a career as a Tier 3 SOC analyst, Security Engineer, an
 | Incident Response Planning and Execution | <a href="https://github.com/Avgvstjne/Incident-Handler-s-Journal">Incident Handler's Journal</a> |
 | Threat Hunting and Detection Engineering | <a href="https://github.com/Avgvstjne/Coach-Dialogue_Sound_the-Alarm_Detection-and-Response">Sound the Alarm: Detection & Response</a> |
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Avgvstjne/LABs_Automate-Cybersecurity-task-with-Python">Automate Cybersecurity Tasks with Python</a> |
-
 
 ---
 
@@ -116,14 +104,16 @@ My objective is to build a career as a Tier 3 SOC analyst, Security Engineer, an
 
 ---
 
-## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+## Completed - CyberNova Academy -100% Hands-On Cohort Training:(Cybersecurity SOC & GRC)
+CyberNova Academy’s SOC & GRC Cohort is 100% hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability ([...]
+
+
+Learners graduate with:
+- A GitHub portfolio with practical SOC labs and write-ups.
+- Evidence of detection engineering (KQL/SPL, dashboards, alerts, use cases).
+- Incident response workflow experience (tickets, cases, playbooks, reports).
+- GRC artifacts (risk register, policies, ISMS scope, audit evidence pack).
+- Real-world tooling familiarity (SIEM, EDR, SOAR, threat intel, logging).
 
 ---
 
